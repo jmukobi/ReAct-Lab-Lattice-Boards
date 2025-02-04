@@ -1,0 +1,41 @@
+(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
+  (symbol "SOL_+" (in_bom yes) (on_board yes)
+    (property "Reference" "U" (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "SOL+" (at 0.381 -5.08 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (symbol "SOL_+_0_1"
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 -3.302)
+          (xy 0.762 -2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+    )
+    (symbol "SOL_+_1_1"
+      (polyline
+        (pts
+          (xy 0 -3.302)
+          (xy -0.762 -2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (pin power_in line (at 0 0 270) (length 0) hide
+        (name "SOL_+" (effects (font (size 1.27 1.27))))
+        (number "" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+)

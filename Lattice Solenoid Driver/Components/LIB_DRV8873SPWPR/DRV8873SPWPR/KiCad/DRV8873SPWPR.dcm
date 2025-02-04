@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DRV8873SPWPR
+D Motor / Motion / Ignition Controllers & Drivers 10A H-Bridge Motor Driver with Integrated Current Sensing and Current Sense Output
+K
+F http://www.ti.com/lit/ds/symlink/drv8873.pdf
+$ENDCMP
+#
+#End Doc Library

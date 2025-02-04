@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=DRV8873SPWPR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=25
+Version=2.1
+Released=2019-01-24 10:17:49
+Downloaded=2025-01-27 00:51:17
+3D=Y

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DRV8873SPWPR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "DRV8873SPWPR" (!) = "", "SOP65P640X120-25N", "Small Outline Packages", "595-DRV8873SPWPR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8873SPWPR?qs=0lSvoLzn4L%2FOilSh2RhZEg%3D%3D", "Motor / Motion / Ignition Controllers & Drivers 10A H-Bridge Motor Driver with Integrated Current Sensing and Current Sense Output", "http://www.ti.com/lit/ds/symlink/drv8873.pdf", "1.2 mm"
+END_PART
+
+END.

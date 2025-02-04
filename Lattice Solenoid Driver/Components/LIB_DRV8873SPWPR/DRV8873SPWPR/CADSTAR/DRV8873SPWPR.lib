@@ -1,0 +1,16 @@
+.DRV8873SPWPR :1 ;Motor / Motion / Ignition Controllers & Drivers 10A H-Bridge Motor Driver with Integrated Current Sensing and Current Sense Output
+SOP65P640X120-25N
+*STM IC
+*NGS
+*PLB 1="DVDD" 2="NFAULT" 3="SDO" 4="SDI" 5="SCLK" 6="NSCS" 7="EN/IN1" 8="PH/IN2" 9="DISABLE" 10="IPROPI1" 11="NSLEEP" 12="IPROPI2" 13="VM_1" 14="OUT2_1" 15="OUT2_2" 16="SRC_1" 17="SRC_2" 18="OUT1_1" 19="OUT1_2" 20="VM_2" 21="VCP" 22="CPH" 23="CPL" 24="GND" 25="EP"
+*MXP 25
+*DFN DRV8873SPWPR
+~!Mouser Part Number (595-DRV8873SPWPR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8873SPWPR?qs=0lSvoLzn4L%2FOilSh2RhZEg%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (DRV8873SPWPR)
+~!Link Datasheet (http://www.ti.com/lit/ds/symlink/drv8873.pdf)
+~!Height (1.2mm)
+~!3D_Model (DRV8873SPWPR)
+DRV8873SPWPR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 25.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 
