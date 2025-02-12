@@ -1,0 +1,70 @@
+02-11 16:16:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 392:Plugin executed on: 'win32'
+02-11 16:16:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 393:Plugin executed with python version: '3.9.16 (main, Aug  8 2023, 05:38:28) [MSC v.1936 64 bit (AMD64)]'
+02-11 16:16:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 394:KiCad build version: 7.0.8
+02-11 16:16:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 395:Plugin version: 2.1.3
+02-11 16:16:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 396:Frame repr: <wx._core.Frame object at 0x000001F906423DC0>
+02-11 16:16:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 420:Preparing replicator with U3 as a reference
+02-11 16:16:41 com_github_MitjaNemec_ReplicateLayout.replicate_layout 117:getting a list of all footprints on board
+02-11 16:16:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 468:source anchor footprint is 'U3'
+Located on: ['H Bridge']
+With filenames: ['hbridge.kicad_sch']
+With sheet_id:['H Bridge']
+02-11 16:16:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 475:Corresponding footprints are 
+[('U19', ['Load Motor H Bridge']), ('U18', ['H Bridge15']), ('U17', ['H Bridge14']), ('U16', ['H Bridge13']), ('U15', ['H Bridge12']), ('U14', ['H Bridge11']), ('U13', ['H Bridge10']), ('U12', ['H Bridge9']), ('U11', ['H Bridge8']), ('U10', ['H Bridge7']), ('U9', ['H Bridge6']), ('U8', ['H Bridge5']), ('U7', ['H Bridge4']), ('U6', ['H Bridge3']), ('U5', ['H Bridge2']), ('U4', ['H Bridge1']), ('U3', ['H Bridge'])]
+02-11 16:16:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 487:Showing dialog
+02-11 16:16:41 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'H Bridge', file:'hbridge.kicad_sch'
+02-11 16:16:41 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['H Bridge1'], ['H Bridge10'], ['H Bridge11'], ['H Bridge12'], ['H Bridge13'], ['H Bridge14'], ['H Bridge15'], ['H Bridge2'], ['H Bridge3'], ['H Bridge4'], ['H Bridge5'], ['H Bridge6'], ['H Bridge7'], ['H Bridge8'], ['H Bridge9'], ['Load Motor H Bridge']]
+02-11 16:16:41 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1464:Level selected: ['H Bridge']
+02-11 16:16:41 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1299:Filtering list of tracks
+02-11 16:16:42 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 493:Toolbar position: wx.Point(1883, 80)
+02-11 16:16:42 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 498:Dialog position: wx.Point(1444, 80)
+02-11 16:16:43 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'H Bridge', file:'hbridge.kicad_sch'
+02-11 16:16:43 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['H Bridge1'], ['H Bridge10'], ['H Bridge11'], ['H Bridge12'], ['H Bridge13'], ['H Bridge14'], ['H Bridge15'], ['H Bridge2'], ['H Bridge3'], ['H Bridge4'], ['H Bridge5'], ['H Bridge6'], ['H Bridge7'], ['H Bridge8'], ['H Bridge9'], ['Load Motor H Bridge']]
+02-11 16:16:43 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1464:Level selected: ['H Bridge']
+02-11 16:16:43 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'H Bridge', file:'hbridge.kicad_sch'
+02-11 16:16:43 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['H Bridge1'], ['H Bridge10'], ['H Bridge11'], ['H Bridge12'], ['H Bridge13'], ['H Bridge14'], ['H Bridge15'], ['H Bridge2'], ['H Bridge3'], ['H Bridge4'], ['H Bridge5'], ['H Bridge6'], ['H Bridge7'], ['H Bridge8'], ['H Bridge9'], ['Load Motor H Bridge']]
+02-11 16:16:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1464:Level selected: ['H Bridge']
+02-11 16:16:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'H Bridge', file:'hbridge.kicad_sch'
+02-11 16:16:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['H Bridge1'], ['H Bridge10'], ['H Bridge11'], ['H Bridge12'], ['H Bridge13'], ['H Bridge14'], ['H Bridge15'], ['H Bridge2'], ['H Bridge3'], ['H Bridge4'], ['H Bridge5'], ['H Bridge6'], ['H Bridge7'], ['H Bridge8'], ['H Bridge9'], ['Load Motor H Bridge']]
+02-11 16:16:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1464:Level selected: ['H Bridge']
+02-11 16:16:45 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'H Bridge', file:'hbridge.kicad_sch'
+02-11 16:16:45 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['H Bridge1'], ['H Bridge10'], ['H Bridge11'], ['H Bridge12'], ['H Bridge13'], ['H Bridge14'], ['H Bridge15'], ['H Bridge2'], ['H Bridge3'], ['H Bridge4'], ['H Bridge5'], ['H Bridge6'], ['H Bridge7'], ['H Bridge8'], ['H Bridge9'], ['Load Motor H Bridge']]
+02-11 16:16:45 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1464:Level selected: ['H Bridge']
+02-11 16:16:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'H Bridge', file:'hbridge.kicad_sch'
+02-11 16:16:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['H Bridge1'], ['H Bridge10'], ['H Bridge11'], ['H Bridge12'], ['H Bridge13'], ['H Bridge14'], ['H Bridge15'], ['H Bridge2'], ['H Bridge3'], ['H Bridge4'], ['H Bridge5'], ['H Bridge6'], ['H Bridge7'], ['H Bridge8'], ['H Bridge9'], ['Load Motor H Bridge']]
+02-11 16:16:47 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 240:Replicating layout
+02-11 16:16:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 240:Starting replication of sheets: [['H Bridge1'], ['H Bridge10'], ['H Bridge11'], ['H Bridge12'], ['H Bridge13'], ['H Bridge14'], ['H Bridge15'], ['H Bridge2'], ['H Bridge3'], ['H Bridge4'], ['H Bridge5'], ['H Bridge6'], ['H Bridge7'], ['H Bridge8'], ['H Bridge9'], ['Load Motor H Bridge']]
+on level: ['H Bridge']
+with tracks=False, zone=False, text=False, text=False, intersecting=False, remove=False, locked footprints=False, group_only=False
+02-11 16:16:47 root 332:updating GUI message: 'Preparing for replication'
+02-11 16:16:47 root 337:updating GUI with: 0
+02-11 16:16:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 310:Getting the list of source footprints
+02-11 16:16:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 320:Getting the list of all the remaining footprints
+02-11 16:16:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 327:Getting source tracks
+02-11 16:16:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1299:Filtering list of tracks
+02-11 16:16:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 331:Getting source zones
+02-11 16:16:47 root 337:updating GUI with: 50
+02-11 16:16:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 335:Getting source text items
+02-11 16:16:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 339:Getting source drawing items
+02-11 16:16:47 root 332:updating GUI message: 'Replicating footprints'
+02-11 16:16:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 806:Replicating footprints
+02-11 16:16:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['H Bridge1']
+02-11 16:16:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['H Bridge10']
+02-11 16:16:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['H Bridge11']
+02-11 16:16:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['H Bridge12']
+02-11 16:16:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['H Bridge13']
+02-11 16:16:47 root 337:updating GUI with: 30
+02-11 16:16:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['H Bridge14']
+02-11 16:16:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['H Bridge15']
+02-11 16:16:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['H Bridge2']
+02-11 16:16:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['H Bridge3']
+02-11 16:16:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['H Bridge4']
+02-11 16:16:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['H Bridge5']
+02-11 16:16:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['H Bridge6']
+02-11 16:16:47 root 337:updating GUI with: 74
+02-11 16:16:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['H Bridge7']
+02-11 16:16:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['H Bridge8']
+02-11 16:16:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['H Bridge9']
+02-11 16:16:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['Load Motor H Bridge']
+02-11 16:16:47 root 332:updating GUI message: 'Removing duplicates'
+02-11 16:16:55 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 256:Replication complete

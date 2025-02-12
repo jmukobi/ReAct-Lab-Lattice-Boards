@@ -471,6 +471,74 @@
     [
       "dd3049f9-60ef-48df-858e-65109e262c3c",
       ""
+    ],
+    [
+      "9bc86c45-0663-4b13-8069-5c4c8849b551",
+      "H Bridge"
+    ],
+    [
+      "f80864a6-d992-4749-bc7f-e0e7a7045772",
+      "H Bridge1"
+    ],
+    [
+      "cd750f94-9327-4167-87ec-10cc0442824f",
+      "H Bridge2"
+    ],
+    [
+      "760e5de2-760e-4a83-a790-9dd253d31b8e",
+      "H Bridge3"
+    ],
+    [
+      "aa42e368-6ec3-4c47-bdff-0c7785ba3922",
+      "H Bridge4"
+    ],
+    [
+      "f7be44ea-ca82-4424-b0be-802f6489d8f6",
+      "H Bridge5"
+    ],
+    [
+      "24cbfc13-5574-42a8-b911-2a4d447c86bd",
+      "H Bridge6"
+    ],
+    [
+      "75e92251-a246-4d6a-89ca-fa8559435f81",
+      "H Bridge7"
+    ],
+    [
+      "997f6211-ff2b-4539-a43b-faadc5111e13",
+      "H Bridge8"
+    ],
+    [
+      "13029a19-f484-4d42-a315-129d444f1e80",
+      "H Bridge9"
+    ],
+    [
+      "dbbf7914-251f-44a0-a621-418b958817c6",
+      "H Bridge10"
+    ],
+    [
+      "5ff863ad-84b4-4b00-aa68-97a38806f813",
+      "H Bridge11"
+    ],
+    [
+      "9fbb9fd0-be3e-450e-9f15-d3d398ea6945",
+      "H Bridge12"
+    ],
+    [
+      "0c6e5dc0-6928-4c1d-82ad-fed5df2ef017",
+      "H Bridge13"
+    ],
+    [
+      "1bc352cd-e604-460e-a204-89ecb7fa93b7",
+      "H Bridge14"
+    ],
+    [
+      "6965d6dd-87b7-4907-9ffa-f1e0244a7ef7",
+      "H Bridge15"
+    ],
+    [
+      "02912774-2f1a-4930-ab6e-1ae5432f9e26",
+      "Load Motor H Bridge"
     ]
   ],
   "text_variables": {}
