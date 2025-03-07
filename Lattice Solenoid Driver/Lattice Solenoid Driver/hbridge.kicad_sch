@@ -1611,19 +1611,19 @@
 			)
 		)
 		(pin "1"
-			(uuid "de69d461-5f16-4be3-bc9a-271acc7e1f6a")
+			(uuid "cbd8f19a-8e06-4d54-8a2a-fd241ac17915")
 		)
 		(pin "2"
-			(uuid "a3d71315-de29-436e-a530-98c4ae52677b")
+			(uuid "05c756e8-730c-4080-a499-2d8869aecfb5")
 		)
 		(pin "3"
-			(uuid "5f4e9c49-967c-4794-86ba-c512edf268f3")
+			(uuid "8e906b90-20fd-4951-9ba9-26d16f4427ca")
 		)
 		(pin "4"
-			(uuid "0c3d388f-5cc3-4e37-bb16-4e000dfc0264")
+			(uuid "96a9079b-c83a-4f02-8637-392592327c1b")
 		)
 		(pin "5"
-			(uuid "1fa0d9d9-27c8-4f28-a5ad-f0cb53219b6f")
+			(uuid "88b1ab0e-13e5-4146-ad7f-3f4865ee25ff")
 		)
 		(instances
 			(project "Lattice Solenoid Driver"
@@ -1753,7 +1753,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f2d6001e-9b29-43b8-913a-5d6fe35ad649")
+			(uuid "4ddee115-a1a6-473a-bc36-2fe6ce211151")
 		)
 		(instances
 			(project "Lattice Solenoid Driver"
@@ -1892,10 +1892,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "ee4b6477-af9e-44eb-93d7-20c599e2432e")
+			(uuid "e4d99bf6-d180-451a-95e5-a5b0c54cdbb7")
 		)
 		(pin "2"
-			(uuid "307fab8f-9427-4fd1-aee7-eacec77bdfd6")
+			(uuid "8a73ae95-3359-4c3d-bf5c-0c658b5e1309")
 		)
 		(instances
 			(project "Lattice Solenoid Driver"
@@ -2032,10 +2032,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "50bd5183-78d4-4f05-8941-0f67d26c9415")
+			(uuid "30bef53f-76cb-4d0e-ac38-84f86ae9ee80")
 		)
 		(pin "2"
-			(uuid "dbaf0c7b-e9ef-41f0-bacb-79da94cfd94f")
+			(uuid "37bd5b69-cfbb-4f96-aa98-ea41408a6e55")
 		)
 		(instances
 			(project "Lattice Solenoid Driver"
@@ -2165,7 +2165,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "15bac94a-caef-40ee-9e61-44e969798690")
+			(uuid "76449ecb-d6ec-43cf-8082-5f1bfb24f200")
 		)
 		(instances
 			(project "Lattice Solenoid Driver"
@@ -2302,10 +2302,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "b9b6b939-a73b-413a-8111-834d3c47a83f")
+			(uuid "31d123b0-114a-45dd-bf41-03fdce3125e0")
 		)
 		(pin "2"
-			(uuid "822a19bf-22e7-4ace-89d3-b9ead10a4907")
+			(uuid "012fadc4-953f-42b3-9588-2f7c4b58c8f1")
 		)
 		(instances
 			(project "Lattice Solenoid Driver"
@@ -2435,7 +2435,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "8e5b6524-98eb-465c-a916-8f18372a31df")
+			(uuid "a6305682-9502-47db-899b-626d2e781b67")
 		)
 		(instances
 			(project "Lattice Solenoid Driver"
@@ -2518,7 +2518,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5d6bef9e-fdad-4767-b942-62305d832b4c")
 		(property "Reference" "U3"
 			(at 144.78 75.184 0)
@@ -2565,7 +2564,7 @@
 			)
 		)
 		(property "Part #" "C2150662"
-			(at 121.92 85.598 0)
+			(at 120.65 83.312 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2573,79 +2572,79 @@
 			)
 		)
 		(pin "1"
-			(uuid "a71d27e8-0841-4404-a571-a05d43561440")
+			(uuid "4db6b76d-84e1-4b78-b14c-71acf7dc8bfe")
 		)
 		(pin "10"
-			(uuid "3e4eddf0-5c94-48ca-a2f4-18bc0d30114c")
+			(uuid "a5880de3-449a-42f6-9c65-4d8a5bac7c18")
 		)
 		(pin "11"
-			(uuid "3afe96fd-dfe0-4d1c-8f95-eb34d1585ec4")
+			(uuid "c0d6198b-feaf-4ee5-87a3-aec75228908e")
 		)
 		(pin "12"
-			(uuid "8ebbefd8-6a60-494b-8831-db37f8e7ee7e")
+			(uuid "658cbcd2-46bd-4fb4-ba2a-d8a1356fcfb4")
 		)
 		(pin "13"
-			(uuid "5f146b85-cbcb-4620-8510-b762055d84c5")
+			(uuid "ffd7c86d-4f47-409b-b9a0-db2905fee522")
 		)
 		(pin "14"
-			(uuid "6c1cdb9d-98e6-4afc-a280-421800bc3782")
+			(uuid "195cc7fe-f7bc-4f31-bb59-72fc2408e075")
 		)
 		(pin "15"
-			(uuid "c668116f-4f2f-4daf-9d9d-42aa340d7717")
+			(uuid "ec64fa55-984d-4d4a-ab32-43e31576237e")
 		)
 		(pin "16"
-			(uuid "7b4179d4-1714-496e-95d7-48088cdf1511")
+			(uuid "60ee2a33-637f-47d3-8112-f7726106cba8")
 		)
 		(pin "17"
-			(uuid "6b1cee0b-a934-40ed-8ad5-06a73ff36b58")
+			(uuid "7757b532-cbda-4c86-a623-0278700a300c")
 		)
 		(pin "18"
-			(uuid "b195f61e-be1b-45e8-8ce7-ca9df412ece9")
+			(uuid "7abc6f11-6081-437a-8e37-b9f557fd59cd")
 		)
 		(pin "19"
-			(uuid "ededa8c5-6a78-45ce-a8e4-6519099cf5ee")
+			(uuid "e4dfae58-7fcb-4319-8af6-1a9317f4aa94")
 		)
 		(pin "2"
-			(uuid "5ce030f4-c125-4f44-a6be-580122469e01")
+			(uuid "80056d97-af16-4bf0-8de8-b41294f732bb")
 		)
 		(pin "20"
-			(uuid "c3f1134b-803b-4489-8cbf-5eeca96a23d6")
+			(uuid "2a002000-a87e-4e47-bb8e-ffaf1777f46c")
 		)
 		(pin "21"
-			(uuid "fa137d35-501c-4252-9d6f-ccf540de508b")
+			(uuid "4e5dc4f3-8bb7-4d46-b7c7-481634a204b2")
 		)
 		(pin "22"
-			(uuid "562b07cb-17bf-481e-8b33-555c204a1073")
+			(uuid "baa461aa-25a9-4c53-a696-d233443a3dbc")
 		)
 		(pin "23"
-			(uuid "7fb1739f-81b0-4d16-9ac4-4c4ce2b59232")
+			(uuid "7489aaa7-f4fb-43a1-98c3-23a0540c43b4")
 		)
 		(pin "24"
-			(uuid "648a504e-c528-4aeb-9af3-d116dc0a7534")
+			(uuid "98e7bec3-216c-495d-a7fe-36ed71032c88")
 		)
 		(pin "EPAD"
-			(uuid "f166fff8-6961-4c58-b28f-08c23a744896")
+			(uuid "85d569cd-d943-4f13-bbd2-521458b56134")
 		)
 		(pin "3"
-			(uuid "7871d613-bad3-4fd5-8d97-54b25af8b3a8")
+			(uuid "ffa2ef55-56a1-48fc-aae1-e3fc0a298ad5")
 		)
 		(pin "4"
-			(uuid "5e8474b4-fe41-4974-9fd4-49d8067ceca7")
+			(uuid "e2a75793-839b-42e0-9034-6a7aedeafc9e")
 		)
 		(pin "5"
-			(uuid "15231991-5377-45c1-a261-dfd7ab9cba83")
+			(uuid "185ed8fd-0891-4894-82f2-075a29b7fc48")
 		)
 		(pin "6"
-			(uuid "315b7979-00e6-464b-97b0-717f52608d33")
+			(uuid "35d09edf-d2ae-4db1-8f50-cfbb24eb062c")
 		)
 		(pin "7"
-			(uuid "13cf8fc6-b084-447c-8ae5-f96050fa7ef9")
+			(uuid "9c148fac-3ed3-48cc-95c1-0b417c3a1aa4")
 		)
 		(pin "8"
-			(uuid "3298adb8-a5c3-4efb-a30d-6d6d2235fb81")
+			(uuid "48457764-d967-4e31-b41c-9b51e20f6f60")
 		)
 		(pin "9"
-			(uuid "1f310d4c-51ff-442b-beb5-b435d0d3bbc2")
+			(uuid "95bb8043-f1ac-4220-a78f-855dadb9e5b3")
 		)
 		(instances
 			(project "Lattice Solenoid Driver"
@@ -2775,7 +2774,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "7f82843d-f7a8-4609-950c-68e9221b6e4d")
+			(uuid "b7af3915-4f74-49d1-8891-a49866f78599")
 		)
 		(instances
 			(project "Lattice Solenoid Driver"
@@ -2904,7 +2903,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f9e154a2-03ab-49f4-a2e7-bfbdfb88a4c6")
+			(uuid "21d64b5a-6882-46b0-ba85-3aea0e8bfd9f")
 		)
 		(instances
 			(project "Lattice Solenoid Driver"
@@ -3043,10 +3042,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "d89105d1-004c-4de3-aa69-168358804e83")
+			(uuid "83dafe5b-35c6-462f-900f-3c0e5d6b77b5")
 		)
 		(pin "2"
-			(uuid "e0f4935f-673a-400b-8c3e-d09af299e93d")
+			(uuid "c4e436a5-dfdf-4b23-ab45-5331838740e7")
 		)
 		(instances
 			(project "Lattice Solenoid Driver"
@@ -3185,10 +3184,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c5f55ccc-b19f-4afd-ae7e-9cbf4992eb44")
+			(uuid "4aa878f2-c1a1-45c3-b9d1-b1fcd1af8482")
 		)
 		(pin "2"
-			(uuid "fd961687-db1f-4913-b762-948a82dbbc99")
+			(uuid "434cdd42-aa65-4375-84cd-24455d25f362")
 		)
 		(instances
 			(project "Lattice Solenoid Driver"
@@ -3327,10 +3326,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "25aac907-28b9-43bd-8ce9-4b832aa87637")
+			(uuid "7f4d22b1-5167-4aa3-a729-2259d8ca8fe9")
 		)
 		(pin "2"
-			(uuid "1ed5ffd5-a35a-483a-aec7-b155cd7b491f")
+			(uuid "71a67120-d6fe-49ac-b45c-18921d87130e")
 		)
 		(instances
 			(project "Lattice Solenoid Driver"
@@ -3460,7 +3459,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "8548e50d-39a0-49c7-bad8-d5e10cae06c7")
+			(uuid "bebcdbbc-0340-43b0-87c3-dc5d4dc4ad6e")
 		)
 		(instances
 			(project "Lattice Solenoid Driver"
@@ -3599,10 +3598,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c98a3cde-dce9-48cd-9a56-d66e29019768")
+			(uuid "cdb89d0f-94e6-4f42-bfd7-9fd259acf56e")
 		)
 		(pin "2"
-			(uuid "d999bfb2-9807-45b2-b480-c018f636d452")
+			(uuid "33d054ab-2a70-4441-a46c-8fe7276c3e44")
 		)
 		(instances
 			(project "Lattice Solenoid Driver"
@@ -3732,7 +3731,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "1d93c340-1df5-438e-9341-56db48746382")
+			(uuid "c7364202-dc9c-48d4-b7d7-bf16f6c63ec2")
 		)
 		(instances
 			(project "Lattice Solenoid Driver"
@@ -3861,7 +3860,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "cc142b33-afbb-40fe-87e7-f0cf5051a238")
+			(uuid "dc53b42d-d13b-4761-bae8-3edafafa71ec")
 		)
 		(instances
 			(project "Lattice Solenoid Driver"
@@ -3990,7 +3989,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f703ef17-a654-49d9-9a8e-ec705699bc47")
+			(uuid "4b0a5ff4-a64e-4562-bbae-cf44296b2301")
 		)
 		(instances
 			(project "Lattice Solenoid Driver"
@@ -4119,7 +4118,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "62cb1ca6-47ac-415e-9d77-03b22b0af8a3")
+			(uuid "35ea6c10-f416-4a2a-8b3d-c29087681c55")
 		)
 		(instances
 			(project "Lattice Solenoid Driver"
@@ -4248,7 +4247,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "5a14aadd-7350-4607-a718-555e37f36fa1")
+			(uuid "cee58932-b97d-427b-af0d-ace8f043fb17")
 		)
 		(instances
 			(project "Lattice Solenoid Driver"

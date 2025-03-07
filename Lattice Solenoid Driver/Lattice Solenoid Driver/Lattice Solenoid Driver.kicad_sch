@@ -2074,7 +2074,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.274 378.714) (xy 294.132 378.714)
+			(xy 230.378 381.762) (xy 237.236 381.762)
 		)
 		(stroke
 			(width 0)
@@ -2284,7 +2284,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.274 372.364) (xy 294.132 372.364)
+			(xy 230.378 375.412) (xy 237.236 375.412)
 		)
 		(stroke
 			(width 0)
@@ -3868,7 +3868,7 @@
 	)
 	(global_label "LOAD PH"
 		(shape input)
-		(at 242.316 377.952 180)
+		(at 185.42 381 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3878,7 +3878,7 @@
 		)
 		(uuid "a3bf05c4-a908-4c96-b129-ddeb9e515cf1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 231.0455 377.952 0)
+			(at 174.1495 381 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4242,7 +4242,7 @@
 	)
 	(global_label "LOAD EN"
 		(shape input)
-		(at 242.316 373.634 180)
+		(at 185.42 376.682 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4252,7 +4252,7 @@
 		)
 		(uuid "db1e2332-8fe7-4836-bb9d-755996e8c0db")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 231.1665 373.634 0)
+			(at 174.2705 376.682 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4943,7 +4943,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 296.672 378.714 270)
+		(at 239.776 381.762 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4952,7 +4952,7 @@
 		(fields_autoplaced yes)
 		(uuid "164f20ca-299b-4f20-87b0-4bd9c655152f")
 		(property "Reference" "H4"
-			(at 300.736 377.444 90)
+			(at 243.84 380.492 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4961,7 +4961,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 300.736 379.984 90)
+			(at 243.84 383.032 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4970,7 +4970,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
-			(at 296.672 378.714 0)
+			(at 239.776 381.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4979,7 +4979,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 296.672 378.714 0)
+			(at 239.776 381.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4988,7 +4988,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 296.672 378.714 0)
+			(at 239.776 381.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8764,7 +8764,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 296.672 372.364 270)
+		(at 239.776 375.412 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8773,7 +8773,7 @@
 		(fields_autoplaced yes)
 		(uuid "f8aa0b5e-d49f-4dc1-913f-aec9b3b7bfdf")
 		(property "Reference" "H3"
-			(at 301.244 371.094 90)
+			(at 244.348 374.142 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8782,7 +8782,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 301.244 373.634 90)
+			(at 244.348 376.682 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8791,7 +8791,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"
-			(at 296.672 372.364 0)
+			(at 239.776 375.412 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8800,7 +8800,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 296.672 372.364 0)
+			(at 239.776 375.412 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8809,7 +8809,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 296.672 372.364 0)
+			(at 239.776 375.412 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9055,7 +9055,7 @@
 		)
 	)
 	(sheet
-		(at 242.316 361.442)
+		(at 185.42 364.49)
 		(size 44.958 30.226)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9071,7 +9071,7 @@
 		)
 		(uuid "02912774-2f1a-4930-ab6e-1ae5432f9e26")
 		(property "Sheetname" "Load Motor H Bridge"
-			(at 242.316 360.7304 0)
+			(at 185.42 363.7784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9080,7 +9080,7 @@
 			)
 		)
 		(property "Sheetfile" "hbridge.kicad_sch"
-			(at 242.316 392.2526 0)
+			(at 185.42 395.3006 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9089,7 +9089,7 @@
 			)
 		)
 		(pin "EN" input
-			(at 242.316 373.634 180)
+			(at 185.42 376.682 180)
 			(uuid "a7bd5143-00ba-407e-a4b0-4043d4b29728")
 			(effects
 				(font
@@ -9099,7 +9099,7 @@
 			)
 		)
 		(pin "PH" input
-			(at 242.316 377.952 180)
+			(at 185.42 381 180)
 			(uuid "294fc5ba-e06a-4660-a701-8c383749d7b2")
 			(effects
 				(font
@@ -9109,7 +9109,7 @@
 			)
 		)
 		(pin "SOL+" input
-			(at 287.274 372.364 0)
+			(at 230.378 375.412 0)
 			(uuid "cf23be87-fe4c-4627-8826-107c55e4e553")
 			(effects
 				(font
@@ -9119,7 +9119,7 @@
 			)
 		)
 		(pin "SOL-" input
-			(at 287.274 378.714 0)
+			(at 230.378 381.762 0)
 			(uuid "890be7f9-29ed-456d-99f1-0225f0b8fa46")
 			(effects
 				(font
@@ -10116,6 +10116,48 @@
 			(project "Lattice Solenoid Driver"
 				(path "/dd3049f9-60ef-48df-858e-65109e262c3c"
 					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 306.07 373.38)
+		(size 45.72 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b58756a0-6f00-4e6b-9567-07d39f0dea91")
+		(property "Sheetname" "Load Stepper Driver"
+			(at 306.07 372.6684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 306.07 396.8246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Lattice Solenoid Driver"
+				(path "/dd3049f9-60ef-48df-858e-65109e262c3c"
+					(page "19")
 				)
 			)
 		)

@@ -701,6 +701,10 @@
     [
       "02912774-2f1a-4930-ab6e-1ae5432f9e26",
       "Load Motor H Bridge"
+    ],
+    [
+      "b58756a0-6f00-4e6b-9567-07d39f0dea91",
+      "Load Stepper Driver"
     ]
   ],
   "text_variables": {}
