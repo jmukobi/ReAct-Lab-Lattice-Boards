@@ -2571,6 +2571,14 @@
 				(hide yes)
 			)
 		)
+		(property "Part #" "C81582"
+			(at 107.95 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "13"
 			(uuid "dd7dd976-e677-48cc-9dd2-f2911a7b7a55")
 		)

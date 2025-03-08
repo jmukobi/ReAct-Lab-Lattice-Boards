@@ -503,8 +503,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../../../../../Desktop/Fabrication/",
-      "pos_files": "../../../../../Desktop/Fabrication/",
+      "plot": "../../../../../Desktop/Fabrication 2/",
+      "pos_files": "../../../../../Desktop/Fabrication 2/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
@@ -514,7 +514,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "${PROJECTNAME}.csv",
+    "bom_export_filename": "..\\..\\..\\..\\..\\Desktop\\Fabrication 2\\Lattice Solenoid Driver.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -557,13 +557,13 @@
           "group_by": true,
           "label": "Exclude from BOM",
           "name": "${EXCLUDE_FROM_BOM}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
           "label": "Exclude from Board",
           "name": "${EXCLUDE_FROM_BOARD}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -575,7 +575,7 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
