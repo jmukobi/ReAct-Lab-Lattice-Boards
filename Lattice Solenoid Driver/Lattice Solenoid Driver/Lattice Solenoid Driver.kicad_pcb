@@ -8811,6 +8811,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "C:/Users/jacob.mukobi/Documents/Github/ReAct-Lab-Lattice-Boards/Lattice Solenoid Driver/Components/DRV8873SPWPR/PWP0024J.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "KiCADv6:PWP24_TEX"
 		(layer "F.Cu")
@@ -8843,7 +8854,7 @@
 			)
 		)
 		(property "Datasheet" "DRV8873SPWPR"
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "37dc1cbb-72c7-410c-9dd7-9c42681ac252")
@@ -8855,7 +8866,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f3ff6d3a-4315-4e33-8ea9-de051cdf17d7")
@@ -10380,6 +10391,17 @@
 		)
 		(embedded_fonts no)
 		(model "C:/Users/Jacob/Documents/GitHub/ReAct-Lab-Lattice-Boards/Lattice Solenoid Driver/Components/DRV8873SPWPR/PWP0024J.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/jacob.mukobi/Documents/Github/ReAct-Lab-Lattice-Boards/Lattice Solenoid Driver/Components/DRV8873SPWPR/PWP0024J.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17767,7 +17789,7 @@
 			)
 		)
 		(property "Datasheet" "DRV8873SPWPR"
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2e0d8233-2fa5-4f88-b8fa-b207fae44243")
@@ -17779,7 +17801,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ff5d1345-1e6d-4162-acca-8c3023b8793c")
@@ -19304,6 +19326,17 @@
 		)
 		(embedded_fonts no)
 		(model "C:/Users/Jacob/Documents/GitHub/ReAct-Lab-Lattice-Boards/Lattice Solenoid Driver/Components/DRV8873SPWPR/PWP0024J.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/jacob.mukobi/Documents/Github/ReAct-Lab-Lattice-Boards/Lattice Solenoid Driver/Components/DRV8873SPWPR/PWP0024J.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22781,6 +22814,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "C:/Users/jacob.mukobi/Documents/Github/ReAct-Lab-Lattice-Boards/Lattice Solenoid Driver/Components/DRV8873SPWPR/PWP0024J.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 		(layer "F.Cu")
@@ -24604,6 +24648,17 @@
 		)
 		(embedded_fonts no)
 		(model "C:/Users/Jacob/Documents/GitHub/ReAct-Lab-Lattice-Boards/Lattice Solenoid Driver/Components/DRV8873SPWPR/PWP0024J.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/jacob.mukobi/Documents/Github/ReAct-Lab-Lattice-Boards/Lattice Solenoid Driver/Components/DRV8873SPWPR/PWP0024J.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -26647,7 +26702,7 @@
 			)
 		)
 		(property "Datasheet" "DRV8873SPWPR"
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3991d259-ce32-42b4-a80b-a2526b58e22f")
@@ -26659,7 +26714,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "674c2b93-1157-415e-ae42-0dda1d536e39")
@@ -28194,6 +28249,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "C:/Users/jacob.mukobi/Documents/Github/ReAct-Lab-Lattice-Boards/Lattice Solenoid Driver/Components/DRV8873SPWPR/PWP0024J.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -29116,7 +29182,7 @@
 			)
 		)
 		(property "Datasheet" "DRV8873SPWPR"
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cab27b6c-0685-425d-b101-61381e90cc00")
@@ -29128,7 +29194,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "60d7bed7-74a8-4641-b807-75d951e75d75")
@@ -30663,6 +30729,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "C:/Users/jacob.mukobi/Documents/Github/ReAct-Lab-Lattice-Boards/Lattice Solenoid Driver/Components/DRV8873SPWPR/PWP0024J.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "KiCADv6:PWP24_TEX"
 		(layer "F.Cu")
@@ -30695,7 +30772,7 @@
 			)
 		)
 		(property "Datasheet" "DRV8873SPWPR"
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "21696ba3-e308-4887-8f8d-10c44e99827b")
@@ -30707,7 +30784,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b0bf522b-9168-46a8-87b3-304135fe7b88")
@@ -32232,6 +32309,17 @@
 		)
 		(embedded_fonts no)
 		(model "C:/Users/Jacob/Documents/GitHub/ReAct-Lab-Lattice-Boards/Lattice Solenoid Driver/Components/DRV8873SPWPR/PWP0024J.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/jacob.mukobi/Documents/Github/ReAct-Lab-Lattice-Boards/Lattice Solenoid Driver/Components/DRV8873SPWPR/PWP0024J.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -34798,7 +34886,7 @@
 			)
 		)
 		(property "Datasheet" "DRV8873SPWPR"
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "dd4f4c17-5c6a-4ce8-bd59-f7a4c23d64c7")
@@ -34810,7 +34898,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "99879959-9331-4398-8e7c-6329cd2b0979")
@@ -36335,6 +36423,17 @@
 		)
 		(embedded_fonts no)
 		(model "C:/Users/Jacob/Documents/GitHub/ReAct-Lab-Lattice-Boards/Lattice Solenoid Driver/Components/DRV8873SPWPR/PWP0024J.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/jacob.mukobi/Documents/Github/ReAct-Lab-Lattice-Boards/Lattice Solenoid Driver/Components/DRV8873SPWPR/PWP0024J.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -39013,6 +39112,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "C:/Users/jacob.mukobi/Documents/Github/ReAct-Lab-Lattice-Boards/Lattice Solenoid Driver/Components/DRV8873SPWPR/PWP0024J.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "footprints:PWP28_5P18X3P1"
 		(layer "F.Cu")
@@ -40340,6 +40450,18 @@
 			(uuid "b49b551d-44cc-498d-a6cf-bae59b4e2270")
 		)
 		(fp_text user "*"
+			(at -3.2258 -5.672874 270)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "9c578353-4921-4525-bc6f-8ee39f5dd130")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "*"
 			(at -3.2258 -5.672874 90)
 			(layer "F.SilkS")
 			(uuid "a331c740-97fb-40b2-a0ed-a3a6ed5488e2")
@@ -40353,29 +40475,6 @@
 		(fp_text user "*"
 			(at -3.2258 -5.672874 270)
 			(unlocked yes)
-			(layer "F.SilkS")
-			(uuid "a331c740-97fb-40b2-a0ed-a3a6ed5488e2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(fp_text user "*"
-			(at -3.2258 -5.672874 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(uuid "719eb3df-3c8e-406d-bfe8-28b692e0a6f3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(fp_text user "*"
-			(at -3.2258 -5.672874 90)
 			(layer "F.Fab")
 			(uuid "719eb3df-3c8e-406d-bfe8-28b692e0a6f3")
 			(effects
@@ -40390,6 +40489,17 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "c2f546a2-8920-4a00-b915-7254e00bc848")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "*"
+			(at -3.2258 -5.672874 90)
+			(layer "F.Fab")
+			(uuid "c3c0a0d0-241e-49f2-88df-983e6cd94413")
 			(effects
 				(font
 					(size 1 1)
@@ -40659,6 +40769,17 @@
 			(uuid "a3be70f2-78b5-4e82-93a1-2c605e1593a3")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/jacob.mukobi/Documents/Github/ReAct-Lab-Lattice-Boards/Lattice Solenoid Driver/Components/DRV8825PWPR/PWP0028C.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -47649,6 +47770,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "C:/Users/jacob.mukobi/Documents/Github/ReAct-Lab-Lattice-Boards/Lattice Solenoid Driver/Components/DRV8873SPWPR/PWP0024J.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -50697,6 +50829,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "C:/Users/jacob.mukobi/Documents/Github/ReAct-Lab-Lattice-Boards/Lattice Solenoid Driver/Components/DRV8873SPWPR/PWP0024J.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -52001,7 +52144,7 @@
 			)
 		)
 		(property "Datasheet" "DRV8873SPWPR"
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "388fb5e1-30e2-4f3a-aadf-96c917dbc9b3")
@@ -52013,7 +52156,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c40b6d65-8aef-46f8-a4cc-4f24bdd28dbf")
@@ -53538,6 +53681,17 @@
 		)
 		(embedded_fonts no)
 		(model "C:/Users/Jacob/Documents/GitHub/ReAct-Lab-Lattice-Boards/Lattice Solenoid Driver/Components/DRV8873SPWPR/PWP0024J.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/jacob.mukobi/Documents/Github/ReAct-Lab-Lattice-Boards/Lattice Solenoid Driver/Components/DRV8873SPWPR/PWP0024J.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -62166,6 +62320,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "C:/Users/jacob.mukobi/Documents/Github/ReAct-Lab-Lattice-Boards/Lattice Solenoid Driver/Components/DRV8873SPWPR/PWP0024J.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 		(layer "F.Cu")
@@ -64423,6 +64588,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "C:/Users/jacob.mukobi/Documents/Github/ReAct-Lab-Lattice-Boards/Lattice Solenoid Driver/Components/DRV8873SPWPR/PWP0024J.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 		(layer "F.Cu")
@@ -65855,7 +66031,7 @@
 			)
 		)
 		(property "Datasheet" "DRV8873SPWPR"
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cc892a93-cfb9-429e-bfb1-b1ada3487f81")
@@ -65867,7 +66043,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4b60a46a-d518-4301-9377-0fa07c44fd55")
@@ -67392,6 +67568,17 @@
 		)
 		(embedded_fonts no)
 		(model "C:/Users/Jacob/Documents/GitHub/ReAct-Lab-Lattice-Boards/Lattice Solenoid Driver/Components/DRV8873SPWPR/PWP0024J.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/jacob.mukobi/Documents/Github/ReAct-Lab-Lattice-Boards/Lattice Solenoid Driver/Components/DRV8873SPWPR/PWP0024J.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -69608,6 +69795,17 @@
 		)
 		(embedded_fonts no)
 		(model "C:/Users/Jacob/Documents/GitHub/ReAct-Lab-Lattice-Boards/Lattice Solenoid Driver/Components/DRV8873SPWPR/PWP0024J.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/jacob.mukobi/Documents/Github/ReAct-Lab-Lattice-Boards/Lattice Solenoid Driver/Components/DRV8873SPWPR/PWP0024J.stp"
 			(offset
 				(xyz 0 0 0)
 			)
