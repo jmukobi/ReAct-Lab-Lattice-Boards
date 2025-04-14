@@ -1,0 +1,6 @@
+{
+    "port": "COM12",
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano",
+    "sketch": "Lattice Solenoid Driver\\Software\\Arduino\\hello_world\\hello_world.ino"
+}

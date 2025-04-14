@@ -1,53 +1,55 @@
 #include <Wire.h>
 
-#define MCP23017_ADDR 0x20
+#define MCP1_ADDR 0x24
+#define MCP2_ADDR 0x20
 
-// MCP23017 Register addresses
-#define IODIRB 0x01  // I/O direction register for GPIOB
-#define OLATB  0x15  // Output latch register for GPIOB
+// MCP23017 register addresses (BANK=0 default)
+#define IODIRA 0x01
+#define IODIRB 0x00
+#define OLATA  0x15
+#define OLATB  0x14
+
+bool outputHigh = true;
 
 void setup() {
+  Serial.begin(115200);
   Wire.begin();
-  Serial.begin(9600);
-  while (!Serial);  // Wait for Serial Monitor
 
-  Serial.println("Running I2C scan...");
-  scanI2CDevices();
+  Serial.println("Initializing MCP23017 expanders...");
 
-  Serial.println("Initializing MCP23017...");
-
-  // Set GPB0 and GPB1 as outputs (0 = output, 1 = input)
-  writeRegister(MCP23017_ADDR, IODIRB, 0b11111100);
-  Serial.println("Configured GPB0 and GPB1 as outputs.");
-  delay(100);
+  initExpander(MCP1_ADDR);
+  initExpander(MCP2_ADDR);
 }
 
 void loop() {
-  // Repeat I2C scan every 4 cycles
-  static int cycleCount = 0;
-  if (cycleCount++ % 4 == 0) {
-    Serial.println("Checking I2C bus...");
-    scanI2CDevices();
-  }
+  Serial.println("\nRunning I2C scan...");
+  scanI2C();
 
-  Serial.println("Setting (0, 0)");
-  writeRegister(MCP23017_ADDR, OLATB, 0b00000000);
-  delay(500);
+  Serial.print("Setting all outputs to ");
+  Serial.println(outputHigh ? "HIGH" : "LOW");
 
-  Serial.println("Setting (1, 0)");
-  writeRegister(MCP23017_ADDR, OLATB, 0b00000001);
-  delay(500);
+  writeAll(MCP1_ADDR, outputHigh ? 0xFF : 0x00);
+  //writeAll(MCP2_ADDR, outputHigh ? 0xFF : 0x00);
 
-  Serial.println("Setting (0, 1)");
-  writeRegister(MCP23017_ADDR, OLATB, 0b00000010);
-  delay(500);
-
-  Serial.println("Setting (1, 1)");
-  writeRegister(MCP23017_ADDR, OLATB, 0b00000011);
-  delay(500);
+  outputHigh = !outputHigh;
+  delay(3000);
 }
 
-// Writes a value to a register on the MCP23017
+void initExpander(uint8_t addr) {
+  // Set all A and B pins to output
+  writeRegister(addr, IODIRA, 0x00);
+  writeRegister(addr, IODIRB, 0x00);
+
+  // Set all outputs LOW initially
+  writeRegister(addr, OLATA, 0x00);
+  writeRegister(addr, OLATB, 0x00);
+}
+
+void writeAll(uint8_t addr, uint8_t value) {
+  writeRegister(addr, OLATA, value);
+  writeRegister(addr, OLATB, value);
+}
+
 void writeRegister(uint8_t addr, uint8_t reg, uint8_t value) {
   Wire.beginTransmission(addr);
   Wire.write(reg);
@@ -55,8 +57,7 @@ void writeRegister(uint8_t addr, uint8_t reg, uint8_t value) {
   Wire.endTransmission();
 }
 
-// I2C scanner function
-void scanI2CDevices() {
+void scanI2C() {
   byte error, address;
   int nDevices = 0;
 
@@ -67,11 +68,12 @@ void scanI2CDevices() {
     if (error == 0) {
       Serial.print("I2C device found at address 0x");
       if (address < 16) Serial.print("0");
-      Serial.println(address, HEX);
+      Serial.print(address, HEX);
+      Serial.println("  ✓");
       nDevices++;
     }
   }
 
-  if (nDevices == 0) Serial.println("No I2C devices found.");
-  else Serial.println("I2C scan complete.");
+  if (nDevices == 0)
+    Serial.println("No I2C devices found.");
 }
