@@ -1,0 +1,6 @@
+{
+    "port": "COM12",
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano",
+    "sketch": "single_solenoid_test.ino"
+}

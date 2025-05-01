@@ -1,8 +1,8 @@
 #include <Wire.h>
 
 // MCP23017 addresses
-#define MCP1_ADDR 0x24
-#define MCP2_ADDR 0x20
+#define MCP1_ADDR 0x26
+#define MCP2_ADDR 0x24
 
 // MCP23017 registers
 #define IODIRA 0x01

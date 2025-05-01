@@ -1,0 +1,6 @@
+{
+    "port": "COM12",
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano",
+    "sketch": "motor_current_control.ino"
+}
