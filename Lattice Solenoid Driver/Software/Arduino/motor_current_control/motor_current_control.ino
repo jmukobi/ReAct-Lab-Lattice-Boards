@@ -9,15 +9,15 @@ const uint8_t SENSE_PIN   = A0;   // IPROPI2 → Rsense → analog input
 // ——— HARDWARE CONSTANTS ———
 const float R_SENSE       = 888.4f;     // Ω sense resistor
 const float MIRROR_GAIN   = 1.0f / 1100; // DRV8873 current mirror ratio
-const float V_REF         = 5.0f;       // Arduino analog reference (V)
+const float V_REF         = 5.1f;       // Arduino analog reference (V)
 const int   ADC_MAX       = 1023;       // 10-bit ADC
-const int   PWM_MAX       = 255;        // max 8-bit PWM output
+const int   PWM_MAX       = 255*12/18;        // max 8-bit PWM output
 
 // ——— PID PARAMETERS ———
 // Tune these for stability & responsiveness
-double Kp = 200.0;
-double Ki =  50.0;
-double Kd =  10.0;
+double Kp = 2.0;
+double Ki =  1.0;
+double Kd =  1.0;
 
 // ——— CONTROL VARIABLES ———
 volatile double Input,    // measured sense voltage (V)
